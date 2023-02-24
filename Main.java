@@ -1,4 +1,15 @@
+/**
+ *
+ * @author Johanna I. Scharbaai-Emilien
+ *
+ */
 public class Main {
+    /**
+     * Main method from where to obtain the runtime efficiency between
+     * the Fibonacci sequence done in non-recursive and recursive methods.
+     * @param args String passed to main
+     *
+     */
     public static void main(String[] args){
         // Variables for first Fibonacci implementation
         int num1 = 0;
